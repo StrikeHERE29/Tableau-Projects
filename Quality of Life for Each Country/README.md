@@ -1,4 +1,4 @@
-# Quality of Life Analysis
+# Quality of Life Analysis - [Dashboard](https://public.tableau.com/app/profile/cristian.vasile6002/viz/QualityofLifeforEachCountry/Dashboard1?publish=yes)
 
 ##  About the Project
 
