@@ -1,6 +1,6 @@
 # Quality of Life Analysis
 
-📌 About the Project
+## 📌 About the Project
 
 🌍 Where is the best place to live? This project analyzes factors that impact quality of life across different countries. Using Tableau, we explore purchasing power, healthcare, safety, climate, and pollution to understand what makes a country a great place to live.
 
