@@ -26,11 +26,14 @@ The dataset includes key indicators influencing daily life:
 
 ⭐ Overall Quality of Life – A combined score reflecting all factors.
 
-##  Key Insights & Visuals
+## Key Insights & Visuals
 
 🔹 World Map: Country-by-country comparison of quality of life.
+
 🔹 Safety vs. Healthcare vs. Cost: Is a safer country more expensive?
+
 🔹 Pollution & Traffic: How do they impact well-being?
+
 🔹 Housing Affordability: Where is it easiest to own a home?
 
 ##  How to Explore
