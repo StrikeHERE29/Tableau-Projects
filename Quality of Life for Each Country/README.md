@@ -45,4 +45,5 @@ The dataset includes key indicators influencing daily life:
 ✅ Reset selections anytime to get a broader perspective.
 
 ## Dataset
-[Kaggle] (https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country)
+
+[https://www.kaggle.com/datasets/ahmedmohamed2003/quality-of-life-for-each-country] (Kaggle)
