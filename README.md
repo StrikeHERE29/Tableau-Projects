@@ -39,5 +39,7 @@ The dataset includes key indicators influencing daily life:
 ##  How to Explore
 
 ✅ Click on a country to filter insights.
+
 ✅ Hover over data points for more details.
+
 ✅ Reset selections anytime to get a broader perspective.
