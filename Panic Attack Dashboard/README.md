@@ -1,1 +1,2 @@
-
+# Panic Attack Analysis – Insights & Findings -[Dashboard](https://public.tableau.com/app/profile/cristian.vasile6002/viz/PanicAttackDashboard/Dashboard1?publish=yes)
+This project explores a dataset of 1,200 individuals experiencing panic attacks, analyzing key factors that influence their frequency and severity. The goal is to provide a data-driven perspective on panic attack patterns and potential risk factors.
